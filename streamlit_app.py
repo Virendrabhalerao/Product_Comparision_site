@@ -4,7 +4,7 @@ from pythonyugeapitest import get_product_info  # Replace 'your_script_name' wit
 def main():
     st.title("Product Information App")
 
-    api_key = "eEEHXRDI2q1UiFwU2nP8W8AfCB0hMNv2LhU"
+    api_key = "NkXQQnZZjAdFtrnINzCFJlMEr8AmUKyFLDh"
     product_name = st.text_input("Enter the product name:")
 
     if st.button("Get Product Info"):
