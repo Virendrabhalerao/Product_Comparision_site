@@ -21,7 +21,7 @@ def get_product_info(api_key, product_name):
         return None
 
 if __name__ == "__main__":
-    api_key = "1BUjWKufjWMFTmCKz1474bmcbeRRnmicExN"
+    api_key = "eEEHXRDI2q1UiFwU2nP8W8AfCB0hMNv2LhU"
     product_name = input("Enter the product name: ")
 
     product_info = get_product_info(api_key, product_name)
